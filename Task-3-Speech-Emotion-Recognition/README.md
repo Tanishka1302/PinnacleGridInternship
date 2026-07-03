@@ -40,6 +40,14 @@ Task-3-Speech-Emotion-Recognition/
 ├── requirements.txt
 └── README.md
 
+
+
+## Dataset
+
+This project uses the RAVDESS Emotional Speech Audio Dataset.
+
+Dataset Download:
+https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio
 ```
 
 ## Future Improvements
